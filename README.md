@@ -3,6 +3,7 @@
 以加工機台完整的「加工參數」和「加工品質」作為訓練資料，於測試階段預
 測 20項重點參數。
 
+![image](file:///D:/ML/IMDB%E6%B5%81%E7%A8%8B%E5%9C%96/readme.JPG)
 
 
 File folder name: TrainDataSet
