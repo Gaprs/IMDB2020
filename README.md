@@ -20,11 +20,7 @@ epoch 1000 times, batch size 64.
 
 
 執行步驟:
-1. 開啟Pycharm，並確認Python為3.7版本，以及其他套件在"109919_Source"資料夾下的requirments.txt檔，該文字檔內有所需套件的名稱以及版本。
-2. 確認路徑"D:\109919_Source"下有0714train以及0728test兩份CSV檔。
-3. 確認第一與第二個步驟均已滿足。
-4. 先執行TrainDataSet資料夾內的IMBD2020_TrainDataSet.py，並確認train_X的CSV檔產生在路徑"D:\IMBD2020\TrainDataSet"。
-5. 確認路徑"D:\109919_Source"有train_X以及0728test兩份CSV檔。
-6. 再執行PredictResult資料夾內的IMBD2020_PredictResult.py檔，並確認IMBD2020_TestResult的CSV檔已產生。
-7. IMBD2020_TestResult為預測結果的CSV檔。
+1. 執行TrainDataSet資料夾內的IMBD2020_TrainDataSet.py，並產生train_X的CSV檔為資料前處理後的資料集。
+2. 再執行PredictResult資料夾內的IMBD2020_PredictResult.py檔，並產生IMBD2020_TestResult的CSV檔為預測結果的資料集。
+3. IMBD2020_TestResult為預測結果的CSV檔。
 
